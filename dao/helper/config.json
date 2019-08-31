@@ -1,0 +1,8 @@
+{
+    "mysql":{
+        "host":"10.233.75.2",
+        "user":"root",
+        "password":"1234",
+        "db":"cloud"
+    }
+}
